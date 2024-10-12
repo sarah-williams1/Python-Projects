@@ -1,0 +1,4 @@
+John Locke
+David Hume
+Edmund Burke
+This file was created with the python file named 'file_practice.py'. 
