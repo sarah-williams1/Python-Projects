@@ -1,0 +1,10 @@
+vanilla
+0
+vanilla
+900
+vanilla
+9000
+chocolate
+50
+strawberry
+40
